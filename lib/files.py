@@ -1,0 +1,2 @@
+open("Terminal.docx","r+")
+
